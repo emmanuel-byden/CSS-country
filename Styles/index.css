@@ -1,0 +1,24 @@
+h2{
+    color: green;                                                                                                                                      
+}
+h1{
+    color: red;
+}
+h1,h2{
+    text-decoration: dotted ;
+}
+p{
+    color: aqua;
+}
+section{
+    text-align: left;
+}
+#location{
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:#83653d ;
+}
+.my-sections{
+    font-family: 'Courier New', Courier, monospace;
+
+}
